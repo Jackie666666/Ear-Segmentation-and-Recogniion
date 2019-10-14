@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:/Users/kshit/Anaconda3/envs/tf_gpu/Lib/site-packages/tensorflow/models/research/deeplab/datasets/PQR/exp/train_on_trainval_set/train\\model.ckpt-30000"
+all_model_checkpoint_paths: "C:/Users/kshit/Anaconda3/envs/tf_gpu/Lib/site-packages/tensorflow/models/research/deeplab/datasets/PQR/exp/train_on_trainval_set/train\\model.ckpt-26314"
+all_model_checkpoint_paths: "C:/Users/kshit/Anaconda3/envs/tf_gpu/Lib/site-packages/tensorflow/models/research/deeplab/datasets/PQR/exp/train_on_trainval_set/train\\model.ckpt-27513"
+all_model_checkpoint_paths: "C:/Users/kshit/Anaconda3/envs/tf_gpu/Lib/site-packages/tensorflow/models/research/deeplab/datasets/PQR/exp/train_on_trainval_set/train\\model.ckpt-28709"
+all_model_checkpoint_paths: "C:/Users/kshit/Anaconda3/envs/tf_gpu/Lib/site-packages/tensorflow/models/research/deeplab/datasets/PQR/exp/train_on_trainval_set/train\\model.ckpt-29903"
+all_model_checkpoint_paths: "C:/Users/kshit/Anaconda3/envs/tf_gpu/Lib/site-packages/tensorflow/models/research/deeplab/datasets/PQR/exp/train_on_trainval_set/train\\model.ckpt-30000"
